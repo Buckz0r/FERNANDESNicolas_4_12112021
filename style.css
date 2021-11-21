@@ -1039,6 +1039,11 @@ h4 {
 
 .PDG {
     color: grey;
+    font-weight: bold;
+}
+
+.text-bold {
+    font-weight: bold;
 }
 
 @media (max-width: 400px) {
