@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, 0.8);
+    color: #575757;
 }
 
 .d-bloc .a-btn:hover,
@@ -373,11 +373,6 @@ a:hover {
 
 .PDG {
     color: black;
-}
-
-.text-bold {
-    font-weight: bold;
-    font-size: 18px;
 }
 
 @media (min-width: 768px) {
@@ -789,7 +784,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #fff;
 }
 
 .tc-white {
@@ -797,12 +792,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #575757;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #929292!important;
     color: #FFFFFF!important;
 }
 
