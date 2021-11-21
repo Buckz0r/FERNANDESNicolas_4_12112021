@@ -362,6 +362,23 @@ a:hover {
     z-index: 2;
 }
 
+.text-size {
+    font-size: 20px;
+}
+
+.text-citation {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.PDG {
+    color: black;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -1027,25 +1044,6 @@ h4 {
         height: 320px;
     }
 }
-
-.text-size {
-    font-size: 20px;
-}
-
-.text-citation {
-    font-size: 20px;
-    font-style: italic;
-}
-
-.PDG {
-    color: grey;
-    font-weight: bold;
-}
-
-.text-bold {
-    font-weight: bold;
-}
-
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
